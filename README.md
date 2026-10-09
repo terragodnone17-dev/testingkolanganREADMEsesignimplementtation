@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=WELCOME%2C+TO+MY+HUMBLE+ABODE;CS+STUDENT+%7C+AT+NWSSU;BUILDING+PROJECTS+WITH+PASSION+AND+VISION" alt="Cabili Marc — CS Student at NWSSU, Creative Coder" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=WELCOME%2C+TO+MY+HUMBLE+ABODE;CS+STUDENT+%7C+AT+NWSSU;BUILDING+PROJECTS+WITH+PASSION" alt="Cabili Marc — CS Student at NWSSU, Creative Coder" />
   </p>
 </h1>
 
