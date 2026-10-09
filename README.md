@@ -1,5 +1,5 @@
 # <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=HEY%2C+I'M+TERRAGOD;COMPUTER+SCIENCE+STUDENT+%7C+CREATIVE+CODER;BUILDING+PROJECTS+WITH+PASSION+AND+VISION" alt="Welcome Visitor! welcome to my humble abode :) 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=HEY%2C+I'M+CABILI MARC;COMPUTER+SCIENCE+STUDENT+%7C+AT+NWSSU;BUILDING+PROJECTS+WITH+PASSION+AND+VISION" alt="Welcome Visitor! welcome to my humble abode :) 
     My name is Marc Cabili, a proud Student at Northwest Samar State University - NWSSU" />
 </h1>
 
